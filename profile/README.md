@@ -6,7 +6,7 @@ A class-based web framework for [Bun](https://bun.sh): modules, dependency injec
 bun create soda my-app
 ```
 
-- [Documentation](https://getsodajs.github.io/)
+- [Documentation](https://sodajs.dev/)
 - [`@getsoda/core`](https://www.npmjs.com/package/@getsoda/core) on npm
 - [HTTP benchmark](https://github.com/getsodajs/soda/tree/main/bench/http) against Bun, Hono and Nest
 

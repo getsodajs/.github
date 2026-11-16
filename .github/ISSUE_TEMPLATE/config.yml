@@ -1,5 +1,5 @@
 blank_issues_enabled: true
 contact_links:
   - name: Documentation
-    url: https://getsodajs.github.io/
+    url: https://sodajs.dev/
     about: Guides, recipes and a map from Nest.
